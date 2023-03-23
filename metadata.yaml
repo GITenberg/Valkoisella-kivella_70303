@@ -1,0 +1,41 @@
+_repo: Valkoisella-kivella_70303
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kanervio, Siimes
+    birthdate: 1880
+    deathdate: 1918
+    gutenberg_agent_id: '52964'
+    url: http://www.gutenberg.org/2009/agents/52964
+    wikipedia: https://fi.wikipedia.org/wiki/Siimes_Kanervio
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Anatole
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anatole_France
+    - https://fr.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_issued: '2023-03-16'
+identifiers:
+  gutenberg: '70303'
+language: fi
+pgterms:marc905: 20210605074834france
+pgterms:marc906: '1910'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bKansan Lehti, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Valkoisella kivellä
+url: http://www.gutenberg.org/ebooks/70303

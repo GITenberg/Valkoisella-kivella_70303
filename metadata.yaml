@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '52964'
     url: http://www.gutenberg.org/2009/agents/52964
     wikipedia: https://fi.wikipedia.org/wiki/Siimes_Kanervio
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: France, Anatole
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anatole_France
     - https://fr.wikipedia.org/wiki/Anatole_France
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70303#Valkoisella-kivella
 gutenberg_issued: '2023-03-16'
 identifiers:
   gutenberg: '70303'
